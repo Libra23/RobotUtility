@@ -32,4 +32,6 @@
 *.app
 
 .vscode
+.gitignore
+.gitmodules
 *.code-workspace
